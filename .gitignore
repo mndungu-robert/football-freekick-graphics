@@ -1,0 +1,6 @@
+build/
+*.o
+*.exe
+*.out
+football_pure_cpp
+football_opengl
